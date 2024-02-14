@@ -15,6 +15,9 @@ Face Recognition is a Python project that implements a facial recognition using 
 ## Tested Images
 Sample images for testing and validation are included in separate folders within the project directory.\
 Here are some example images:
+1. Background Substraction:
 ![background substraction](src/background%20substraction/images/bgSub4.png)
-![edge detection](src/edge%20detector/images/canny2.png)
+2. Removing Noise:
 ![removing noise](src/remove%20noise/images/removeNoise3.png)
+3. Edge Detecion:
+![edge detection](src/edge%20detector/images/canny2.png)
