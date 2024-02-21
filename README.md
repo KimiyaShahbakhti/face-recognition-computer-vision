@@ -1,4 +1,4 @@
-# Face Recognition <p align="right"><img alt="logo" src="src/edge%20detector/images/canny2.png"></p>
+# Face Recognition
 Implementing image processing techniques for facial detection
 
 ## Summary
