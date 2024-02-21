@@ -1,4 +1,4 @@
-# Face Recognition <img width="50" height="50" alt="Medicare Logo" src="src/edge%20detector/images/canny2.png">
+# Face Recognition <img align="right" width="50" height="50" alt="Medicare Logo" src="src/edge%20detector/images/canny2.png">
 Implementing image processing techniques for facial detection
 
 ## Summary
